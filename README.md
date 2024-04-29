@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/eva-pink?style=for-the-badge&logo=google&logoColor=white" alt="google Badge"/>
     </a>
 <a href="https://t.me/FUTURMANIST">
-      <img src="https://img.shields.io/badge/Futurman-pink?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+      <img src="https://img.shields.io/badge/Futurmanist-pink?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
     </a>
   </div>
     <h2 align="left">Who am I? --></h2>

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img height="100" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif?cid=ecf05e47p45gip2fx65br8njn0jpbv2c1r1r11oikbvv4oca&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+  <img height="100" width="100" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif?cid=ecf05e47p45gip2fx65br8njn0jpbv2c1r1r11oikbvv4oca&ep=v1_stickers_search&rid=giphy.gif&ct=s">
   </div>
 <div id= "info" align="center">
     <h1 style="color:#FBA0E3">Hello World, <br>I'm Eva!</h1>
